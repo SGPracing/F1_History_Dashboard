@@ -1,0 +1,427 @@
+year,driver,constructor,circuit
+1994,Ayrton Senna,Williams,Autódromo José Carlos Pace
+1994,Ayrton Senna,Williams,Okayama International Circuit
+1994,Ayrton Senna,Williams,Autodromo Enzo e Dino Ferrari
+1994,Michael Schumacher,Benetton,Circuit de Barcelona-Catalunya
+1994,Michael Schumacher,Benetton,Circuit Gilles Villeneuve
+1994,Damon Hill,Williams,Circuit de Nevers Magny-Cours
+1994,Damon Hill,Williams,Silverstone Circuit
+1994,Gerhard Berger,Ferrari,Hockenheimring
+1994,Michael Schumacher,Benetton,Hungaroring
+1994,Rubens Barrichello,Jordan,Circuit de Spa-Francorchamps
+1994,Jean Alesi,Ferrari,Autodromo Nazionale di Monza
+1994,Gerhard Berger,Ferrari,Autódromo do Estoril
+1994,Michael Schumacher,Benetton,Circuito de Jerez
+1994,Michael Schumacher,Benetton,Suzuka Circuit
+1994,Nigel Mansell,Williams,Adelaide Street Circuit
+1995,Damon Hill,Williams,Autódromo José Carlos Pace
+1995,David Coulthard,Williams,Autódromo Juan y Oscar Gálvez
+1995,Michael Schumacher,Benetton,Autodromo Enzo e Dino Ferrari
+1995,Michael Schumacher,Benetton,Circuit de Barcelona-Catalunya
+1995,Damon Hill,Williams,Circuit de Monaco
+1995,Michael Schumacher,Benetton,Circuit Gilles Villeneuve
+1995,Damon Hill,Williams,Circuit de Nevers Magny-Cours
+1995,Damon Hill,Williams,Silverstone Circuit
+1995,Damon Hill,Williams,Hockenheimring
+1995,Damon Hill,Williams,Hungaroring
+1995,Gerhard Berger,Ferrari,Circuit de Spa-Francorchamps
+1995,David Coulthard,Williams,Autodromo Nazionale di Monza
+1995,David Coulthard,Williams,Autódromo do Estoril
+1995,David Coulthard,Williams,Nürburgring
+1995,David Coulthard,Williams,Okayama International Circuit
+1995,Michael Schumacher,Benetton,Suzuka Circuit
+1995,Damon Hill,Williams,Adelaide Street Circuit
+1996,Jacques Villeneuve,Williams,Albert Park Grand Prix Circuit
+1996,Damon Hill,Williams,Autódromo José Carlos Pace
+1996,Damon Hill,Williams,Autódromo Juan y Oscar Gálvez
+1996,Damon Hill,Williams,Nürburgring
+1996,Michael Schumacher,Ferrari,Autodromo Enzo e Dino Ferrari
+1996,Michael Schumacher,Ferrari,Circuit de Monaco
+1996,Damon Hill,Williams,Circuit de Barcelona-Catalunya
+1997,Jacques Villeneuve,Williams,Albert Park Grand Prix Circuit
+1997,Jacques Villeneuve,Williams,Autódromo José Carlos Pace
+1997,Jacques Villeneuve,Williams,Autódromo Juan y Oscar Gálvez
+1997,Jacques Villeneuve,Williams,Autodromo Enzo e Dino Ferrari
+1997,Heinz-Harald Frentzen,Williams,Circuit de Monaco
+1997,Jacques Villeneuve,Williams,Circuit de Barcelona-Catalunya
+1997,Michael Schumacher,Ferrari,Circuit Gilles Villeneuve
+1997,Michael Schumacher,Ferrari,Circuit de Nevers Magny-Cours
+1997,Jacques Villeneuve,Williams,Silverstone Circuit
+1997,Gerhard Berger,Benetton,Hockenheimring
+1998,Mika Häkkinen,McLaren,Albert Park Grand Prix Circuit
+1998,Mika Häkkinen,McLaren,Autódromo José Carlos Pace
+1998,David Coulthard,McLaren,Autódromo Juan y Oscar Gálvez
+1998,Mika Häkkinen,McLaren,Silverstone Circuit
+1998,Giancarlo Fisichella,Benetton,A1-Ring
+1998,Mika Häkkinen,McLaren,Hockenheimring
+1998,Mika Häkkinen,McLaren,Circuit de Spa-Francorchamps
+1999,Mika Häkkinen,McLaren,Albert Park Grand Prix Circuit
+1999,Mika Häkkinen,McLaren,Autódromo José Carlos Pace
+1999,Mika Häkkinen,McLaren,Autodromo Enzo e Dino Ferrari
+2000,Mika Häkkinen,McLaren,Albert Park Grand Prix Circuit
+2000,Mika Häkkinen,McLaren,Autodromo Enzo e Dino Ferrari
+2000,Rubens Barrichello,Ferrari,Silverstone Circuit
+2000,Michael Schumacher,Ferrari,Suzuka Circuit
+2001,Michael Schumacher,Ferrari,Indianapolis Motor Speedway
+2002,Michael Schumacher,Ferrari,Sepang International Circuit
+2002,Michael Schumacher,Ferrari,Suzuka Circuit
+2003,Michael Schumacher,Ferrari,Albert Park Grand Prix Circuit
+2003,Fernando Alonso,Renault,Sepang International Circuit
+2003,Rubens Barrichello,Ferrari,Autódromo José Carlos Pace
+2003,Michael Schumacher,Ferrari,Autodromo Enzo e Dino Ferrari
+2003,Michael Schumacher,Ferrari,Circuit de Barcelona-Catalunya
+2003,Michael Schumacher,Ferrari,A1-Ring
+2003,Ralf Schumacher,Williams,Circuit de Monaco
+2003,Ralf Schumacher,Williams,Circuit Gilles Villeneuve
+2003,Kimi Räikkönen,McLaren,Nürburgring
+2003,Ralf Schumacher,Williams,Circuit de Nevers Magny-Cours
+2003,Rubens Barrichello,Ferrari,Silverstone Circuit
+2003,Juan Pablo Montoya,Williams,Hockenheimring
+2003,Fernando Alonso,Renault,Hungaroring
+2003,Michael Schumacher,Ferrari,Autodromo Nazionale di Monza
+2003,Kimi Räikkönen,McLaren,Indianapolis Motor Speedway
+2003,Rubens Barrichello,Ferrari,Suzuka Circuit
+2004,Michael Schumacher,Ferrari,Albert Park Grand Prix Circuit
+2004,Michael Schumacher,Ferrari,Sepang International Circuit
+2004,Michael Schumacher,Ferrari,Bahrain International Circuit
+2004,Jenson Button,BAR,Autodromo Enzo e Dino Ferrari
+2004,Michael Schumacher,Ferrari,Circuit de Barcelona-Catalunya
+2004,Jarno Trulli,Renault,Circuit de Monaco
+2004,Michael Schumacher,Ferrari,Nürburgring
+2004,Ralf Schumacher,Williams,Circuit Gilles Villeneuve
+2004,Rubens Barrichello,Ferrari,Indianapolis Motor Speedway
+2004,Fernando Alonso,Renault,Circuit de Nevers Magny-Cours
+2004,Kimi Räikkönen,McLaren,Silverstone Circuit
+2004,Michael Schumacher,Ferrari,Hockenheimring
+2004,Michael Schumacher,Ferrari,Hungaroring
+2004,Jarno Trulli,Renault,Circuit de Spa-Francorchamps
+2004,Rubens Barrichello,Ferrari,Autodromo Nazionale di Monza
+2004,Rubens Barrichello,Ferrari,Shanghai International Circuit
+2004,Michael Schumacher,Ferrari,Suzuka Circuit
+2004,Rubens Barrichello,Ferrari,Autódromo José Carlos Pace
+2005,Giancarlo Fisichella,Renault,Albert Park Grand Prix Circuit
+2005,Fernando Alonso,Renault,Sepang International Circuit
+2005,Fernando Alonso,Renault,Bahrain International Circuit
+2005,Kimi Räikkönen,McLaren,Autodromo Enzo e Dino Ferrari
+2005,Kimi Räikkönen,McLaren,Circuit de Barcelona-Catalunya
+2005,Kimi Räikkönen,McLaren,Circuit de Monaco
+2005,Nick Heidfeld,Williams,Nürburgring
+2005,Jenson Button,BAR,Circuit Gilles Villeneuve
+2005,Jarno Trulli,Toyota,Indianapolis Motor Speedway
+2005,Fernando Alonso,Renault,Circuit de Nevers Magny-Cours
+2005,Fernando Alonso,Renault,Silverstone Circuit
+2005,Kimi Räikkönen,McLaren,Hockenheimring
+2005,Michael Schumacher,Ferrari,Hungaroring
+2005,Kimi Räikkönen,McLaren,Istanbul Park
+2005,Kimi Räikkönen,McLaren,Autodromo Nazionale di Monza
+2005,Juan Pablo Montoya,McLaren,Circuit de Spa-Francorchamps
+2005,Fernando Alonso,Renault,Autódromo José Carlos Pace
+2005,Ralf Schumacher,Toyota,Suzuka Circuit
+2005,Fernando Alonso,Renault,Shanghai International Circuit
+2006,Michael Schumacher,Ferrari,Bahrain International Circuit
+2006,Giancarlo Fisichella,Renault,Sepang International Circuit
+2006,Jenson Button,Honda,Albert Park Grand Prix Circuit
+2006,Michael Schumacher,Ferrari,Autodromo Enzo e Dino Ferrari
+2006,Fernando Alonso,Renault,Nürburgring
+2006,Fernando Alonso,Renault,Circuit de Barcelona-Catalunya
+2006,Fernando Alonso,Renault,Circuit de Monaco
+2006,Fernando Alonso,Renault,Silverstone Circuit
+2006,Fernando Alonso,Renault,Circuit Gilles Villeneuve
+2006,Michael Schumacher,Ferrari,Indianapolis Motor Speedway
+2006,Michael Schumacher,Ferrari,Circuit de Nevers Magny-Cours
+2006,Kimi Räikkönen,McLaren,Hockenheimring
+2006,Kimi Räikkönen,McLaren,Hungaroring
+2006,Felipe Massa,Ferrari,Istanbul Park
+2006,Kimi Räikkönen,McLaren,Autodromo Nazionale di Monza
+2006,Fernando Alonso,Renault,Shanghai International Circuit
+2006,Felipe Massa,Ferrari,Suzuka Circuit
+2006,Felipe Massa,Ferrari,Autódromo José Carlos Pace
+2007,Kimi Räikkönen,Ferrari,Albert Park Grand Prix Circuit
+2007,Felipe Massa,Ferrari,Sepang International Circuit
+2007,Felipe Massa,Ferrari,Bahrain International Circuit
+2007,Felipe Massa,Ferrari,Circuit de Barcelona-Catalunya
+2007,Fernando Alonso,McLaren,Circuit de Monaco
+2007,Lewis Hamilton,McLaren,Circuit Gilles Villeneuve
+2007,Lewis Hamilton,McLaren,Indianapolis Motor Speedway
+2007,Felipe Massa,Ferrari,Circuit de Nevers Magny-Cours
+2007,Lewis Hamilton,McLaren,Silverstone Circuit
+2007,Kimi Räikkönen,Ferrari,Nürburgring
+2007,Fernando Alonso,McLaren,Hungaroring
+2007,Felipe Massa,Ferrari,Istanbul Park
+2007,Fernando Alonso,McLaren,Autodromo Nazionale di Monza
+2007,Kimi Räikkönen,Ferrari,Circuit de Spa-Francorchamps
+2007,Lewis Hamilton,McLaren,Fuji Speedway
+2007,Lewis Hamilton,McLaren,Shanghai International Circuit
+2007,Felipe Massa,Ferrari,Autódromo José Carlos Pace
+2008,Lewis Hamilton,McLaren,Albert Park Grand Prix Circuit
+2008,Felipe Massa,Ferrari,Sepang International Circuit
+2008,Robert Kubica,BMW Sauber,Bahrain International Circuit
+2008,Kimi Räikkönen,Ferrari,Circuit de Barcelona-Catalunya
+2008,Felipe Massa,Ferrari,Istanbul Park
+2008,Felipe Massa,Ferrari,Circuit de Monaco
+2008,Lewis Hamilton,McLaren,Circuit Gilles Villeneuve
+2008,Kimi Räikkönen,Ferrari,Circuit de Nevers Magny-Cours
+2008,Heikki Kovalainen,McLaren,Silverstone Circuit
+2008,Lewis Hamilton,McLaren,Hockenheimring
+2008,Lewis Hamilton,McLaren,Hungaroring
+2008,Felipe Massa,Ferrari,Valencia Street Circuit
+2008,Lewis Hamilton,McLaren,Circuit de Spa-Francorchamps
+2008,Sebastian Vettel,Toro Rosso,Autodromo Nazionale di Monza
+2008,Felipe Massa,Ferrari,Marina Bay Street Circuit
+2008,Lewis Hamilton,McLaren,Fuji Speedway
+2008,Lewis Hamilton,McLaren,Shanghai International Circuit
+2008,Felipe Massa,Ferrari,Autódromo José Carlos Pace
+2009,Jenson Button,Brawn,Albert Park Grand Prix Circuit
+2009,Jenson Button,Brawn,Sepang International Circuit
+2009,Sebastian Vettel,Red Bull,Shanghai International Circuit
+2009,Jarno Trulli,Toyota,Bahrain International Circuit
+2009,Jenson Button,Brawn,Circuit de Barcelona-Catalunya
+2009,Jenson Button,Brawn,Circuit de Monaco
+2009,Sebastian Vettel,Red Bull,Istanbul Park
+2009,Sebastian Vettel,Red Bull,Silverstone Circuit
+2009,Mark Webber,Red Bull,Nürburgring
+2009,Fernando Alonso,Renault,Hungaroring
+2009,Lewis Hamilton,McLaren,Valencia Street Circuit
+2009,Giancarlo Fisichella,Force India,Circuit de Spa-Francorchamps
+2009,Lewis Hamilton,McLaren,Autodromo Nazionale di Monza
+2009,Lewis Hamilton,McLaren,Marina Bay Street Circuit
+2009,Sebastian Vettel,Red Bull,Suzuka Circuit
+2009,Rubens Barrichello,Brawn,Autódromo José Carlos Pace
+2009,Lewis Hamilton,McLaren,Yas Marina Circuit
+2010,Sebastian Vettel,Red Bull,Bahrain International Circuit
+2010,Sebastian Vettel,Red Bull,Albert Park Grand Prix Circuit
+2010,Mark Webber,Red Bull,Sepang International Circuit
+2010,Sebastian Vettel,Red Bull,Shanghai International Circuit
+2010,Mark Webber,Red Bull,Circuit de Barcelona-Catalunya
+2010,Mark Webber,Red Bull,Circuit de Monaco
+2010,Mark Webber,Red Bull,Istanbul Park
+2010,Lewis Hamilton,McLaren,Circuit Gilles Villeneuve
+2010,Sebastian Vettel,Red Bull,Valencia Street Circuit
+2010,Sebastian Vettel,Red Bull,Silverstone Circuit
+2010,Sebastian Vettel,Red Bull,Hockenheimring
+2010,Sebastian Vettel,Red Bull,Hungaroring
+2010,Mark Webber,Red Bull,Circuit de Spa-Francorchamps
+2010,Fernando Alonso,Ferrari,Autodromo Nazionale di Monza
+2010,Fernando Alonso,Ferrari,Marina Bay Street Circuit
+2010,Sebastian Vettel,Red Bull,Suzuka Circuit
+2010,Sebastian Vettel,Red Bull,Korean International Circuit
+2010,Nico Hülkenberg,Williams,Autódromo José Carlos Pace
+2010,Sebastian Vettel,Red Bull,Yas Marina Circuit
+2011,Sebastian Vettel,Red Bull,Albert Park Grand Prix Circuit
+2011,Sebastian Vettel,Red Bull,Sepang International Circuit
+2011,Sebastian Vettel,Red Bull,Shanghai International Circuit
+2011,Sebastian Vettel,Red Bull,Istanbul Park
+2011,Mark Webber,Red Bull,Circuit de Barcelona-Catalunya
+2011,Sebastian Vettel,Red Bull,Circuit de Monaco
+2011,Sebastian Vettel,Red Bull,Circuit Gilles Villeneuve
+2011,Sebastian Vettel,Red Bull,Valencia Street Circuit
+2011,Mark Webber,Red Bull,Silverstone Circuit
+2011,Mark Webber,Red Bull,Nürburgring
+2011,Sebastian Vettel,Red Bull,Hungaroring
+2011,Sebastian Vettel,Red Bull,Circuit de Spa-Francorchamps
+2011,Sebastian Vettel,Red Bull,Autodromo Nazionale di Monza
+2011,Sebastian Vettel,Red Bull,Marina Bay Street Circuit
+2011,Sebastian Vettel,Red Bull,Suzuka Circuit
+2011,Lewis Hamilton,McLaren,Korean International Circuit
+2011,Sebastian Vettel,Red Bull,Buddh International Circuit
+2011,Sebastian Vettel,Red Bull,Yas Marina Circuit
+2011,Sebastian Vettel,Red Bull,Autódromo José Carlos Pace
+2012,Lewis Hamilton,McLaren,Albert Park Grand Prix Circuit
+2012,Lewis Hamilton,McLaren,Sepang International Circuit
+2012,Nico Rosberg,Mercedes,Shanghai International Circuit
+2012,Sebastian Vettel,Red Bull,Bahrain International Circuit
+2012,Lewis Hamilton,McLaren,Circuit de Barcelona-Catalunya
+2012,Michael Schumacher,Mercedes,Circuit de Monaco
+2012,Sebastian Vettel,Red Bull,Circuit Gilles Villeneuve
+2012,Sebastian Vettel,Red Bull,Valencia Street Circuit
+2012,Fernando Alonso,Ferrari,Silverstone Circuit
+2012,Fernando Alonso,Ferrari,Hockenheimring
+2012,Lewis Hamilton,McLaren,Hungaroring
+2012,Jenson Button,McLaren,Circuit de Spa-Francorchamps
+2012,Lewis Hamilton,McLaren,Autodromo Nazionale di Monza
+2012,Lewis Hamilton,McLaren,Marina Bay Street Circuit
+2012,Sebastian Vettel,Red Bull,Suzuka Circuit
+2012,Mark Webber,Red Bull,Korean International Circuit
+2012,Sebastian Vettel,Red Bull,Buddh International Circuit
+2012,Lewis Hamilton,McLaren,Yas Marina Circuit
+2012,Sebastian Vettel,Red Bull,Circuit of the Americas
+2012,Lewis Hamilton,McLaren,Autódromo José Carlos Pace
+2013,Sebastian Vettel,Red Bull,Albert Park Grand Prix Circuit
+2013,Sebastian Vettel,Red Bull,Sepang International Circuit
+2013,Lewis Hamilton,Mercedes,Shanghai International Circuit
+2013,Nico Rosberg,Mercedes,Bahrain International Circuit
+2013,Nico Rosberg,Mercedes,Circuit de Barcelona-Catalunya
+2013,Nico Rosberg,Mercedes,Circuit de Monaco
+2013,Sebastian Vettel,Red Bull,Circuit Gilles Villeneuve
+2013,Lewis Hamilton,Mercedes,Silverstone Circuit
+2013,Lewis Hamilton,Mercedes,Nürburgring
+2013,Lewis Hamilton,Mercedes,Hungaroring
+2013,Lewis Hamilton,Mercedes,Circuit de Spa-Francorchamps
+2013,Sebastian Vettel,Red Bull,Autodromo Nazionale di Monza
+2013,Sebastian Vettel,Red Bull,Marina Bay Street Circuit
+2013,Sebastian Vettel,Red Bull,Korean International Circuit
+2013,Mark Webber,Red Bull,Suzuka Circuit
+2013,Sebastian Vettel,Red Bull,Buddh International Circuit
+2013,Mark Webber,Red Bull,Yas Marina Circuit
+2013,Sebastian Vettel,Red Bull,Circuit of the Americas
+2013,Sebastian Vettel,Red Bull,Autódromo José Carlos Pace
+2014,Lewis Hamilton,Mercedes,Albert Park Grand Prix Circuit
+2014,Lewis Hamilton,Mercedes,Sepang International Circuit
+2014,Nico Rosberg,Mercedes,Bahrain International Circuit
+2014,Lewis Hamilton,Mercedes,Shanghai International Circuit
+2014,Lewis Hamilton,Mercedes,Circuit de Barcelona-Catalunya
+2014,Nico Rosberg,Mercedes,Circuit de Monaco
+2014,Nico Rosberg,Mercedes,Circuit Gilles Villeneuve
+2014,Felipe Massa,Williams,Red Bull Ring
+2014,Nico Rosberg,Mercedes,Silverstone Circuit
+2014,Nico Rosberg,Mercedes,Hockenheimring
+2014,Nico Rosberg,Mercedes,Hungaroring
+2014,Nico Rosberg,Mercedes,Circuit de Spa-Francorchamps
+2014,Lewis Hamilton,Mercedes,Autodromo Nazionale di Monza
+2014,Lewis Hamilton,Mercedes,Marina Bay Street Circuit
+2014,Nico Rosberg,Mercedes,Suzuka Circuit
+2014,Lewis Hamilton,Mercedes,Sochi Autodrom
+2014,Nico Rosberg,Mercedes,Circuit of the Americas
+2014,Nico Rosberg,Mercedes,Autódromo José Carlos Pace
+2014,Nico Rosberg,Mercedes,Yas Marina Circuit
+2015,Lewis Hamilton,Mercedes,Albert Park Grand Prix Circuit
+2015,Lewis Hamilton,Mercedes,Sepang International Circuit
+2015,Lewis Hamilton,Mercedes,Shanghai International Circuit
+2015,Lewis Hamilton,Mercedes,Bahrain International Circuit
+2015,Nico Rosberg,Mercedes,Circuit de Barcelona-Catalunya
+2015,Lewis Hamilton,Mercedes,Circuit de Monaco
+2015,Lewis Hamilton,Mercedes,Circuit Gilles Villeneuve
+2015,Lewis Hamilton,Mercedes,Red Bull Ring
+2015,Lewis Hamilton,Mercedes,Silverstone Circuit
+2015,Lewis Hamilton,Mercedes,Hungaroring
+2015,Lewis Hamilton,Mercedes,Circuit de Spa-Francorchamps
+2015,Lewis Hamilton,Mercedes,Autodromo Nazionale di Monza
+2015,Sebastian Vettel,Ferrari,Marina Bay Street Circuit
+2015,Nico Rosberg,Mercedes,Suzuka Circuit
+2015,Nico Rosberg,Mercedes,Sochi Autodrom
+2015,Nico Rosberg,Mercedes,Circuit of the Americas
+2015,Nico Rosberg,Mercedes,Autódromo Hermanos Rodríguez
+2015,Nico Rosberg,Mercedes,Autódromo José Carlos Pace
+2015,Nico Rosberg,Mercedes,Yas Marina Circuit
+2016,Lewis Hamilton,Mercedes,Albert Park Grand Prix Circuit
+2016,Lewis Hamilton,Mercedes,Bahrain International Circuit
+2016,Nico Rosberg,Mercedes,Shanghai International Circuit
+2016,Nico Rosberg,Mercedes,Sochi Autodrom
+2016,Lewis Hamilton,Mercedes,Circuit de Barcelona-Catalunya
+2016,Daniel Ricciardo,Red Bull,Circuit de Monaco
+2016,Lewis Hamilton,Mercedes,Circuit Gilles Villeneuve
+2016,Nico Rosberg,Mercedes,Baku City Circuit
+2016,Lewis Hamilton,Mercedes,Red Bull Ring
+2016,Lewis Hamilton,Mercedes,Silverstone Circuit
+2016,Nico Rosberg,Mercedes,Hungaroring
+2016,Nico Rosberg,Mercedes,Hockenheimring
+2016,Nico Rosberg,Mercedes,Circuit de Spa-Francorchamps
+2016,Lewis Hamilton,Mercedes,Autodromo Nazionale di Monza
+2016,Nico Rosberg,Mercedes,Marina Bay Street Circuit
+2016,Lewis Hamilton,Mercedes,Sepang International Circuit
+2016,Nico Rosberg,Mercedes,Suzuka Circuit
+2016,Lewis Hamilton,Mercedes,Circuit of the Americas
+2016,Lewis Hamilton,Mercedes,Autódromo Hermanos Rodríguez
+2016,Lewis Hamilton,Mercedes,Autódromo José Carlos Pace
+2016,Lewis Hamilton,Mercedes,Yas Marina Circuit
+2017,Lewis Hamilton,Mercedes,Albert Park Grand Prix Circuit
+2017,Lewis Hamilton,Mercedes,Shanghai International Circuit
+2017,Valtteri Bottas,Mercedes,Bahrain International Circuit
+2017,Sebastian Vettel,Ferrari,Sochi Autodrom
+2017,Lewis Hamilton,Mercedes,Circuit de Barcelona-Catalunya
+2017,Kimi Räikkönen,Ferrari,Circuit de Monaco
+2017,Lewis Hamilton,Mercedes,Circuit Gilles Villeneuve
+2017,Lewis Hamilton,Mercedes,Baku City Circuit
+2017,Valtteri Bottas,Mercedes,Red Bull Ring
+2017,Lewis Hamilton,Mercedes,Silverstone Circuit
+2017,Sebastian Vettel,Ferrari,Hungaroring
+2017,Lewis Hamilton,Mercedes,Circuit de Spa-Francorchamps
+2017,Lewis Hamilton,Mercedes,Autodromo Nazionale di Monza
+2017,Sebastian Vettel,Ferrari,Marina Bay Street Circuit
+2017,Lewis Hamilton,Mercedes,Sepang International Circuit
+2017,Lewis Hamilton,Mercedes,Suzuka Circuit
+2017,Lewis Hamilton,Mercedes,Circuit of the Americas
+2017,Sebastian Vettel,Ferrari,Autódromo Hermanos Rodríguez
+2017,Valtteri Bottas,Mercedes,Autódromo José Carlos Pace
+2017,Valtteri Bottas,Mercedes,Yas Marina Circuit
+2018,Lewis Hamilton,Mercedes,Albert Park Grand Prix Circuit
+2018,Sebastian Vettel,Ferrari,Bahrain International Circuit
+2018,Sebastian Vettel,Ferrari,Shanghai International Circuit
+2018,Sebastian Vettel,Ferrari,Baku City Circuit
+2018,Lewis Hamilton,Mercedes,Circuit de Barcelona-Catalunya
+2018,Daniel Ricciardo,Red Bull,Circuit de Monaco
+2018,Sebastian Vettel,Ferrari,Circuit Gilles Villeneuve
+2018,Lewis Hamilton,Mercedes,Circuit Paul Ricard
+2018,Valtteri Bottas,Mercedes,Red Bull Ring
+2018,Lewis Hamilton,Mercedes,Silverstone Circuit
+2018,Sebastian Vettel,Ferrari,Hockenheimring
+2018,Lewis Hamilton,Mercedes,Hungaroring
+2018,Lewis Hamilton,Mercedes,Circuit de Spa-Francorchamps
+2018,Kimi Räikkönen,Ferrari,Autodromo Nazionale di Monza
+2018,Lewis Hamilton,Mercedes,Marina Bay Street Circuit
+2018,Valtteri Bottas,Mercedes,Sochi Autodrom
+2018,Lewis Hamilton,Mercedes,Suzuka Circuit
+2018,Lewis Hamilton,Mercedes,Circuit of the Americas
+2018,Daniel Ricciardo,Red Bull,Autódromo Hermanos Rodríguez
+2018,Lewis Hamilton,Mercedes,Autódromo José Carlos Pace
+2018,Lewis Hamilton,Mercedes,Yas Marina Circuit
+2019,Lewis Hamilton,Mercedes,Albert Park Grand Prix Circuit
+2019,Charles Leclerc,Ferrari,Bahrain International Circuit
+2019,Valtteri Bottas,Mercedes,Shanghai International Circuit
+2019,Valtteri Bottas,Mercedes,Baku City Circuit
+2019,Valtteri Bottas,Mercedes,Circuit de Barcelona-Catalunya
+2019,Lewis Hamilton,Mercedes,Circuit de Monaco
+2019,Sebastian Vettel,Ferrari,Circuit Gilles Villeneuve
+2019,Lewis Hamilton,Mercedes,Circuit Paul Ricard
+2019,Charles Leclerc,Ferrari,Red Bull Ring
+2019,Valtteri Bottas,Mercedes,Silverstone Circuit
+2019,Lewis Hamilton,Mercedes,Hockenheimring
+2019,Max Verstappen,Red Bull,Hungaroring
+2019,Charles Leclerc,Ferrari,Circuit de Spa-Francorchamps
+2019,Charles Leclerc,Ferrari,Autodromo Nazionale di Monza
+2019,Charles Leclerc,Ferrari,Marina Bay Street Circuit
+2019,Charles Leclerc,Ferrari,Sochi Autodrom
+2019,Sebastian Vettel,Ferrari,Suzuka Circuit
+2019,Max Verstappen,Red Bull,Autódromo Hermanos Rodríguez
+2019,Valtteri Bottas,Mercedes,Circuit of the Americas
+2019,Max Verstappen,Red Bull,Autódromo José Carlos Pace
+2019,Lewis Hamilton,Mercedes,Yas Marina Circuit
+2020,Valtteri Bottas,Mercedes,Red Bull Ring
+2020,Lewis Hamilton,Mercedes,Red Bull Ring
+2020,Lewis Hamilton,Mercedes,Hungaroring
+2020,Lewis Hamilton,Mercedes,Silverstone Circuit
+2020,Valtteri Bottas,Mercedes,Silverstone Circuit
+2020,Lewis Hamilton,Mercedes,Circuit de Barcelona-Catalunya
+2020,Lewis Hamilton,Mercedes,Circuit de Spa-Francorchamps
+2020,Lewis Hamilton,Mercedes,Autodromo Nazionale di Monza
+2020,Lewis Hamilton,Mercedes,Autodromo Internazionale del Mugello
+2020,Lewis Hamilton,Mercedes,Sochi Autodrom
+2020,Valtteri Bottas,Mercedes,Nürburgring
+2020,Lewis Hamilton,Mercedes,Autódromo Internacional do Algarve
+2020,Valtteri Bottas,Mercedes,Autodromo Enzo e Dino Ferrari
+2020,Lance Stroll,Racing Point,Istanbul Park
+2020,Lewis Hamilton,Mercedes,Bahrain International Circuit
+2020,Valtteri Bottas,Mercedes,Bahrain International Circuit
+2020,Max Verstappen,Red Bull,Yas Marina Circuit
+2021,Max Verstappen,Red Bull,Bahrain International Circuit
+2021,Lewis Hamilton,Mercedes,Autodromo Enzo e Dino Ferrari
+2021,Valtteri Bottas,Mercedes,Autódromo Internacional do Algarve
+2021,Lewis Hamilton,Mercedes,Circuit de Barcelona-Catalunya
+2021,Charles Leclerc,Ferrari,Circuit de Monaco
+2021,Charles Leclerc,Ferrari,Baku City Circuit
+2021,Max Verstappen,Red Bull,Circuit Paul Ricard
+2021,Max Verstappen,Red Bull,Red Bull Ring
+2021,Max Verstappen,Red Bull,Red Bull Ring
+2021,Lewis Hamilton,Mercedes,Silverstone Circuit
+2021,Lewis Hamilton,Mercedes,Hungaroring
+2021,Max Verstappen,Red Bull,Circuit de Spa-Francorchamps
+2021,Max Verstappen,Red Bull,Circuit Park Zandvoort
+2021,Valtteri Bottas,Mercedes,Autodromo Nazionale di Monza
+2021,Lando Norris,McLaren,Sochi Autodrom
+2021,Lewis Hamilton,Mercedes,Istanbul Park
+2021,Max Verstappen,Red Bull,Circuit of the Americas
+2021,Valtteri Bottas,Mercedes,Autódromo Hermanos Rodríguez
+2021,Lewis Hamilton,Mercedes,Autódromo José Carlos Pace
+2021,Lewis Hamilton,Mercedes,Losail International Circuit
+2021,Lewis Hamilton,Mercedes,Jeddah Street Circuit
+2021,Max Verstappen,Red Bull,Yas Marina Circuit
