@@ -26,3 +26,8 @@ In total, 5 APIs were requested from http://ergast.com/mrd/:
 * Driver Standings
 * qualifying
 * circuits
+
+### 3. DataFrames ###
+Subsequently 7 dataframes were created from the requested data, as such:
+
+<img width="873" alt="Screen Shot 2022-02-20 at 12 54 44 AM" src="https://user-images.githubusercontent.com/92320460/154828967-50c68ed6-a3fc-4a8a-bd42-2d4ff9716fc8.png">
