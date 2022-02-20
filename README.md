@@ -44,7 +44,7 @@ Initially 7 tables were available in the database, with 3 major branches: driver
 <img width="874" alt="Screen Shot 2022-02-20 at 1 09 58 AM" src="https://user-images.githubusercontent.com/92320460/154829280-fba820aa-ac8e-4b27-9b7b-64c056ac62f3.png">
 
 ### 2. Data ###
-All tables were then exported as .csv files.
+Files .csv were created from the tables available.
 
 ## Tableau ##
 
@@ -55,6 +55,15 @@ Given that all data were distributed within 8 different table, the data source w
 
 ### 2. Dashboard Story ###
 A total of 9 dashboards were created, among them, 2 illustratives (introduction and final one) and 7 interectives with dynamic information/data.<br/>
+Graphics used:
+* Bar Charts
+* Maps
+* Bubble Charts
+* Treemaps
+* Line Charts
+
 Below, an example of few ones:
 
 <img width="1108" alt="Screen Shot 2022-02-20 at 1 34 15 AM" src="https://user-images.githubusercontent.com/92320460/154830098-0de30d97-8a39-4f63-8d7a-30dfb1358bb2.png">
+
+
