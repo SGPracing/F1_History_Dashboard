@@ -42,7 +42,7 @@ Dotenv was used to mask user and password.<br/>
 ### 1. ERD ###
 Initially 7 tables were available in the database, with 3 major branches: drivers, contructors and circuits. To make sure all the data could have some kind of correlation, a new table ('year') was created, resulting in the following diagram:
 
-<img width="874" alt="Screen Shot 2022-02-20 at 1 09 58 AM" src="https://user-images.githubusercontent.com/92320460/154829280-fba820aa-ac8e-4b27-9b7b-64c056ac62f3.png">
+<img width="920" alt="Screen Shot 2022-02-20 at 7 03 04 PM" src="https://user-images.githubusercontent.com/92320460/154868304-dfe1220a-314f-4651-87a8-63c2652cb3b0.png">
 
 ### 2. Data ###
 Files (.csv) were created from the tables available.
