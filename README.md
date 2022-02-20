@@ -54,5 +54,7 @@ Given that all data were distributed within 8 different table, the data source w
 <img width="1163" alt="Screen Shot 2022-02-20 at 1 14 53 AM" src="https://user-images.githubusercontent.com/92320460/154829418-889c15e2-a340-4922-a9c7-421c3113e20f.png">
 
 ### 2. Dashboard Story ###
+A total of 9 dashboards were created, among them, 2 illustratives (introduction and final one) and 7 interectives with dynamic information/data.<br/>
+Below, an example of few ones:
 
-<img width="1155" alt="Screen Shot 2022-02-20 at 1 20 27 AM" src="https://user-images.githubusercontent.com/92320460/154829590-c492f6b0-ba1b-48f3-afc2-304a547e1dbf.png">
+<img width="1108" alt="Screen Shot 2022-02-20 at 1 34 15 AM" src="https://user-images.githubusercontent.com/92320460/154830098-0de30d97-8a39-4f63-8d7a-30dfb1358bb2.png">
