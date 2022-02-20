@@ -1,6 +1,6 @@
 # F1 History Dashboard #
 
-Immerse yourself in the statistics of the hostory of Formula 1. Get to know the tracks, drivers and teams throughout the seasons. <br/>
+Immerse yourself in the statistics of the history of Formula 1. Get to know the tracks, drivers and teams throughout the seasons. <br/>
 Application available at: https://public.tableau.com/app/profile/sergio.pasian/viz/F1_histrory_dash_SGP/1_Intro?publish=yes<br/>
 
 ## Data ##
@@ -22,7 +22,7 @@ Source: http://ergast.com/mrd/
 * os
 
 ### 2. Requestiong API ###
-In total, 5 APIs were requested from http://ergast.com/mrd/:
+Several APIs were requested from http://ergast.com/mrd/
 * Constructor Standings
 * Driver Standings
 * qualifying
@@ -40,24 +40,24 @@ Dotenv was used to mask user and password.<br/>
 ## SQL ##
 
 ### 1. ERD ###
-Initially 7 tables were available in the database, with 3 major branches: drivers, contructors and circuits. To make sure all the data could have some kind o correlation, a new table ('year') was created, resulting in this diagram:
+Initially 7 tables were available in the database, with 3 major branches: drivers, contructors and circuits. To make sure all the data could have some kind of correlation, a new table ('year') was created, resulting in the following diagram:
 
 <img width="874" alt="Screen Shot 2022-02-20 at 1 09 58 AM" src="https://user-images.githubusercontent.com/92320460/154829280-fba820aa-ac8e-4b27-9b7b-64c056ac62f3.png">
 
 ### 2. Data ###
-Files .csv were created from the tables available.
+Files (.csv) were created from the tables available.
 
 ## Tableau ##
 
 ### 1. Data Source ###
-Given that all data were distributed within 8 different table, the data source was structured as such:
+Given that all data were distributed within 8 different tables, the data source was structured as such:
 
 <img width="1163" alt="Screen Shot 2022-02-20 at 1 14 53 AM" src="https://user-images.githubusercontent.com/92320460/154829418-889c15e2-a340-4922-a9c7-421c3113e20f.png">
 
 ### 2. Dashboard Story ###
 A total of 9 dashboards were created. Among them, 2 illustratives (introductory and final one) and 7 with interective menus (sliders and dropdowns).<br/>
-Each dashboard has anavigation buttons located on the top left and right to scroll thropugh the pages. <br/>
-The graphics used:
+Each dashboard has navigation buttons located on the top left and right in order to allow the user to scroll thropugh the pages. <br/>
+The graphics used in thois project:
 * Bar Charts
 * Maps
 * Bubble Charts
