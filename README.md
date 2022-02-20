@@ -1,7 +1,7 @@
 # F1 History Dashboard #
 
 Immerse yourself in the statistics of the history of Formula 1. Get to know the tracks, drivers and teams throughout the seasons. <br/>
-Application available at: https://public.tableau.com/app/profile/sergio.pasian/viz/F1_histrory_dash_SGP/1_Intro<br/>
+Application available at: https://public.tableau.com/app/profile/sergio.pasian/viz/F1_histrory_dash_SGP/F1History?publish=yes br/>
 
 ## Data ##
 Source: http://ergast.com/mrd/
