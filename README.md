@@ -48,8 +48,11 @@ All tables were then exported as .csv files.
 
 ## Tableau ##
 
-### Data Source ###
+### 1. Data Source ###
 Given that all data were distributed within 8 different table, the data source was structured as such:
 
-
 <img width="1163" alt="Screen Shot 2022-02-20 at 1 14 53 AM" src="https://user-images.githubusercontent.com/92320460/154829418-889c15e2-a340-4922-a9c7-421c3113e20f.png">
+
+### 2. Dashboard Story ###
+
+<img width="1155" alt="Screen Shot 2022-02-20 at 1 20 27 AM" src="https://user-images.githubusercontent.com/92320460/154829590-c492f6b0-ba1b-48f3-afc2-304a547e1dbf.png">
