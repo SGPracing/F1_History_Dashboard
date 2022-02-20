@@ -1,6 +1,7 @@
 # F1 History Dashboard #
 
 Immerse yourself in the statistics of the hostory of Formula 1. Get to know the tracks, drivers and teams throughout the seasons. <br/>
+Application available at: https://public.tableau.com/app/profile/sergio.pasian/viz/F1_histrory_dash_SGP/1_Intro?publish=yes<br/>
 
 ## Data ##
 Source: http://ergast.com/mrd/
@@ -54,16 +55,18 @@ Given that all data were distributed within 8 different table, the data source w
 <img width="1163" alt="Screen Shot 2022-02-20 at 1 14 53 AM" src="https://user-images.githubusercontent.com/92320460/154829418-889c15e2-a340-4922-a9c7-421c3113e20f.png">
 
 ### 2. Dashboard Story ###
-A total of 9 dashboards were created, among them, 2 illustratives (introduction and final one) and 7 interectives with dynamic information/data.<br/>
-Graphics used:
+A total of 9 dashboards were created. Among them, 2 illustratives (introductory and final one) and 7 with interective menus (sliders and dropdowns).<br/>
+Each dashboard has anavigation buttons located on the top left and right to scroll thropugh the pages. <br/>
+The graphics used:
 * Bar Charts
 * Maps
 * Bubble Charts
 * Treemaps
 * Line Charts
 
-Below, an example of few ones:
+Below, some examples:
 
 <img width="1108" alt="Screen Shot 2022-02-20 at 1 34 15 AM" src="https://user-images.githubusercontent.com/92320460/154830098-0de30d97-8a39-4f63-8d7a-30dfb1358bb2.png">
 
-
+## Author ##
+* Sergio G. Pasian: https://github.com/SGPracing
