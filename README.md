@@ -35,7 +35,7 @@ Subsequently 7 dataframes were created from the requested APIs, as such:
 
 ### 4. Exporting DataFrames ###
 All dataframes were exported to a SQL database in PostgreSQL. <br/>
-Dotenv was used to mask user and password.<br/>
+The dotenv library was used to mask user and password.<br/>
 
 ## SQL ##
 
