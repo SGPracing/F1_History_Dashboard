@@ -44,8 +44,10 @@ Initially 7 tables were available in the database, with 3 major branches: driver
 
 <img width="920" alt="Screen Shot 2022-02-20 at 7 03 04 PM" src="https://user-images.githubusercontent.com/92320460/154868304-dfe1220a-314f-4651-87a8-63c2652cb3b0.png">
 
+Obs: in the end, the 'pole position' table was not used to any analysis or visualization because the data colected starting in 1994, thus ignoring 43 F1 seasons.
+
 ### 2. Data ###
-Files (.csv) were created from the tables available.
+Files (.csv) were created from the DataFrames.
 
 ## Tableau ##
 
